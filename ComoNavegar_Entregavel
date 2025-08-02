@@ -1,0 +1,21 @@
+---
+
+## 📖 Como Navegar
+1. **speech-studio/**  
+   Contém testes de fala (transcrição, síntese e pronúncia).  
+2. **language-studio/**  
+   Contém testes de linguagem natural (sentimento, entidades e resumo).  
+3. **insights_gerais.md**  
+   Um resumo do que foi aprendido e possíveis aplicações futuras.
+
+---
+
+## ✅ Entregável
+- Anotações e insights documentados em Markdown
+- Prints e arquivos de teste organizados por pasta
+- Resumo geral com aprendizados e ideias de aplicações
+
+---
+
+## 👩‍💻 Autor
+Jaíne Gonzatto
