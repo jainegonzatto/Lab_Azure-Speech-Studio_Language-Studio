@@ -1,0 +1,25 @@
+# Language Studio - Anotações e Insights
+
+## 1. Análise de Sentimento
+- **Texto Testado:** "Estou muito feliz com os resultados do nosso projeto!"
+- **Resultado:** Positivo
+- **Observações:** 
+  - Acertou no sentimento?
+  - Possíveis usos: feedbacks de clientes, redes sociais
+
+---
+
+## 2. Extração de Entidades
+- **Texto Testado:** "A Microsoft anunciou novidades em Seattle no dia 15 de março de 2025."
+- **Entidades Extraídas:** 
+  - Organização: Microsoft
+  - Local: Seattle
+  - Data: 15 de março de 2025
+- **Observações:** Precisão e possíveis usos (pesquisa, BI, etc.)
+
+---
+
+## 3. Resumo de Texto
+- **Texto Original:** [Cole aqui o texto grande testado]
+- **Resumo Gerado:** [Cole o resumo]
+- **Observações:** Clareza e utilidade do resumo
