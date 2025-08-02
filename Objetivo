@@ -1,0 +1,21 @@
+# Laboratório: Azure Speech Studio e Language Studio
+
+## 🎯 Objetivo
+Este laboratório tem como objetivo praticar e aprofundar o uso das ferramentas **Azure Speech Studio** e **Language Studio**, explorando:
+- Reconhecimento e síntese de fala (voz)
+- Análise de sentimentos, extração de entidades e resumo de texto (linguagem)
+
+O foco é **desenvolver habilidades práticas** em soluções baseadas em Inteligência Artificial para **voz e linguagem natural**.
+
+---
+
+## 🛠 Ferramentas Utilizadas
+- **Azure Speech Studio**
+  - Reconhecimento de fala (Speech-to-Text)
+  - Síntese de fala (Text-to-Speech)
+  - Avaliação de pronúncia
+- **Azure Language Studio**
+  - Análise de sentimentos
+   - Resumo de textos
+
+---
