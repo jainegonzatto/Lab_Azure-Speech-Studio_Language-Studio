@@ -1,0 +1,32 @@
+# Speech Studio - Anotações e Insights
+
+## 1. Speech-to-Text
+- **Áudio Testado:** audio1.wav
+- **Resultado:** [Cole aqui a transcrição gerada]
+- **Observações:** 
+  - Precisão boa/ruim?
+  - Erros percebidos?
+  - Possíveis aplicações: legendas, acessibilidade, etc.
+
+---
+
+## 2. Text-to-Speech
+- **Texto Testado:** "Olá, este é um teste com Azure Speech Studio."
+- **Voz Escolhida:** Feminina/Neural/PT-BR
+- **Observações:** 
+  - Naturalidade da voz
+  - Variações de entonação
+  - Possíveis aplicações
+
+---
+
+## 3. Análise de Pronúncia
+- **Frase Lida:** "Bem-vindo ao laboratório de inteligência artificial."
+- **Pontuação de Pronúncia:** 85%
+- **Observações:** 
+  - Pontos fortes e fracos
+  - Aplicações em treinamento de idiomas
+
+
+
+
