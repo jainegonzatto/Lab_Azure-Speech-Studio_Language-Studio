@@ -1,0 +1,27 @@
+# Speech Studio - Anotações e Insights
+
+## 1. Speech-to-Text
+- **Áudio Testado:** Nova Gravação 209.wav
+- **Resultado:** Você me ajudou a me tornar a mulher que eu queria ser. Mas que tinha medo de ser. Será que você tem alguma ideia do milagre que é, do quanto foi incrível e do quanto vai ser incrível? Que possamos nada menos que nos apaixonar por tudo que o universo tem a oferecer e que sempre tenhamos raízes, estrutura nossos pés firmemente plantadas na Terra. Uma carta de amor de mim para você. 
+- **Observações:** 
+  - Precisão boa/ruim? Boa
+  - Erros percebidos? Nenhum no português.
+
+---
+
+## 2. Text-to-Speech
+- **Texto Testado:** "A vida é um sopro e instante, dança entre o céu e o chão. Um nascer constante, feito de fim e recomeço."
+- **Voz Escolhida:** Feminina/Neural/PT-BR
+- **Observações:** 
+  - Naturalidade da voz
+  - Variações de entonação
+  - Possíveis aplicações:
+
+---
+
+## 3. Análise de Pronúncia
+- **Frase Lida:** "Bem-vindo ao laboratório de inteligência artificial."
+- **Pontuação de Pronúncia:** 85%
+- **Observações:** 
+  - Pontos fortes e fracos
+  - Aplicações em treinamento de idiomas
