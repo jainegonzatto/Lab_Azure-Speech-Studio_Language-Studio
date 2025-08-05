@@ -1,31 +1,22 @@
 # Speech Studio - Anotações e Insights
 
 ## 1. Speech-to-Text
-- **Áudio Testado:** audio1.wav
-- **Resultado:** [Cole aqui a transcrição gerada]
+- **Áudio Testado:** Nova Gravação 209.wav
+- **Resultado:** Texto na imagem "Audio_Fala_portuguesok_ai.azure.com"
 - **Observações:** 
-  - Precisão boa/ruim?
-  - Erros percebidos?
+  - Precisão boa/ruim? Em portugês ótima
+  - Erros percebidos? Em inglês, não escreveu certo.
   - Possíveis aplicações: legendas, acessibilidade, etc.
 
 ---
 
 ## 2. Text-to-Speech
-- **Texto Testado:** "Olá, este é um teste com Azure Speech Studio."
+- **Texto Testado:** Conforme "Captura de tela_2-8-2025_9825_ai.azure.com"
 - **Voz Escolhida:** Feminina/Neural/PT-BR
 - **Observações:** 
-  - Naturalidade da voz
-  - Variações de entonação
-  - Possíveis aplicações
-
----
-
-## 3. Análise de Pronúncia
-- **Frase Lida:** "Bem-vindo ao laboratório de inteligência artificial."
-- **Pontuação de Pronúncia:** 85%
-- **Observações:** 
-  - Pontos fortes e fracos
-  - Aplicações em treinamento de idiomas
+  - Naturalidade da voz:  A voz soa bastante natural, com boa fluidez e sem pausas artificiais perceptíveis.
+  - Variações de entonação: presenta entonação adequada para leitura em voz alta, com leve ênfase em pontos finais e perguntas, mas poderia ter mais variação emocional em trechos descritivos.
+  - Possíveis aplicações:  Ideal para narrações de vídeos institucionais, leitura de textos educativos e assistentes virtuais em português.
 
 
 
